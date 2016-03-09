@@ -10,4 +10,4 @@ I'm actively soliciting feedback on the plugin to try and test out various theme
 
 As much as possible, the goal of this plugin is to be a drop-in fix for incompatibility between Genesis and The Events Calendar (Pro). 
 
-"Features" should be considered out of scope, and UI elements should only be added as needed. Currently, the only known UI element needed would be for enabling layout selection for event templates. Please see Issue #1.
+"Features" should be considered out of scope, and UI elements should only be added as needed. Currently, the only known UI element needed would be for enabling layout selection for event templates. Please see [Issue #1](https://github.com/logoscreative/Genesis-The-Events-Calendar-Integration/issues/1).
